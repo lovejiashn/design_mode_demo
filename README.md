@@ -1,7 +1,7 @@
 # design_mode_demo
 
 ## java设置模式  
-   * 工厂方法模式-factory-design \
+  1. **工厂方法模式-factory-design** \
       **工厂方法模式介绍** \
 ![image](https://user-images.githubusercontent.com/29700538/130209850-778d8e8f-42ed-43b1-8462-b4d54e402262.png)
 
