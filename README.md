@@ -1,4 +1,4 @@
-# design_mode_demo
+# design_mode_demo https://github.com/fuzhengwei/CodeGuide/wiki#school_satchel-%E5%AE%9E%E6%88%98%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F
 
 ## java设置模式  
   1. **工厂方法模式-factory-design** \
