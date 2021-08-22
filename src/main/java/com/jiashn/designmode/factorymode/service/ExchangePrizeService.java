@@ -1,4 +1,4 @@
-package com.jiashn.designMode.factoryMode.service;
+package com.jiashn.designmode.factorymode.service;
 
 /**
  * @author jiangjs

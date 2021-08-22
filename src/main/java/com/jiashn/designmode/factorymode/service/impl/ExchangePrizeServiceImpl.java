@@ -1,8 +1,8 @@
-package com.jiashn.designMode.factoryMode.service.impl;
+package com.jiashn.designmode.factorymode.service.impl;
 
-import com.jiashn.designMode.factoryMode.service.ExchangePrizeService;
-import com.jiashn.designMode.factoryMode.utils.ExchangePrizeFactory;
-import com.jiashn.designMode.factoryMode.utils.PrizeEnum;
+import com.jiashn.designmode.factorymode.service.ExchangePrizeService;
+import com.jiashn.designmode.factorymode.utils.ExchangePrizeFactory;
+import com.jiashn.designmode.factorymode.utils.PrizeEnum;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;

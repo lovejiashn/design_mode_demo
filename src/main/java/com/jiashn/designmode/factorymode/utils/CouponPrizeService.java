@@ -1,4 +1,4 @@
-package com.jiashn.designMode.factoryMode.utils;
+package com.jiashn.designmode.factorymode.utils;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

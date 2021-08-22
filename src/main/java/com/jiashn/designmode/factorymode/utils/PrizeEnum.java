@@ -1,4 +1,4 @@
-package com.jiashn.designMode.factoryMode.utils;
+package com.jiashn.designmode.factorymode.utils;
 
 import java.util.Objects;
 
@@ -23,11 +23,11 @@ public enum PrizeEnum {
     /**
      * 类型名称
      */
-    private String name;
+    private final String name;
     /**
      * 工厂实体
      */
-    private ExchangePrizeFactory prizeFactory;
+    private final ExchangePrizeFactory prizeFactory;
 
     PrizeEnum(String name,ExchangePrizeFactory prizeFactory){
         this.name = name;
@@ -42,10 +42,6 @@ public enum PrizeEnum {
             }
         }
         return null;
-    }
-
-    public String getName() {
-        return name;
     }
 
     public ExchangePrizeFactory getPrizeFactory() {
