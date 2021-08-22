@@ -10,6 +10,7 @@ import java.util.List;
 
 /**
  * @author jiangjs
+ * @description 创建菜单方法，实现添加Item接口信息，并实现其他操作
  * @date 2021-08-22 16:02
  */
 public class Meal {
