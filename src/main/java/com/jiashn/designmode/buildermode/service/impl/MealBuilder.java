@@ -7,6 +7,7 @@ import com.jiashn.designmode.buildermode.service.impl.drink.Pepsi;
 
 /**
  * @author jiangjs
+ * @description 菜单组合的建造类
  * @date 2021-08-22 16:14
  */
 public class MealBuilder {
